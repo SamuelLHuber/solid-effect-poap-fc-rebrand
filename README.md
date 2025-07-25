@@ -2,6 +2,8 @@
 
 >This specific UI is taken from https://github.com/etheralpha/ethereumupgrades-com/ and ported to a mini app based on the Effect Bundler Stack.
 
+[![Tip me in Crypto](https://tip.md/badge.svg)](https://tip.md/samuellhuber.eth)
+
 A declarative full-stack Effect.ts and Solid.js with:
 
  - server-side rendering,
